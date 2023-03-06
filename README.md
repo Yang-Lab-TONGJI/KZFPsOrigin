@@ -1,3 +1,5 @@
+KznfOrigin.py is the code to analysis the origin of KZFPs
+
 ##These data need to be used with the code in the paper.
 
 hg38.refGene.gtf:	Gene location information on the human genome of hg38，it can download from UCSC
